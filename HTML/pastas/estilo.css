@@ -1,0 +1,17 @@
+/* comentario*/
+
+h1 {
+ color: blueviolet;
+ text-align: center;
+}
+h2 {
+color: rgb(0, 3, 100);
+}
+/* # e pra definir um id*/
+#primeiro{
+    color: rgb(255, 0, 0);
+}
+/* . serve pra definir uma classe*/
+.link{
+    color: rgb(0, 255, 76);
+}
